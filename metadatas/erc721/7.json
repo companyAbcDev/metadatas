@@ -1,0 +1,40 @@
+{
+  "name": "ABC.KTHULU.INC #7",
+  "description": "The first bridgeable NFT series of ABC.INC which will be with kthulu wallet and chainbridge forever.",
+  "image": "https://raw.githubusercontent.com/companyAbcDev/metadatas/main/metadatas/images/kthulu7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background_07"
+    },
+    {
+      "trait_type": "Base",
+      "value": "base_07"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "shoes_07"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "pants_07"
+    },
+    {
+      "trait_type": "Tee",
+      "value": "padding_07"
+    },
+    {
+      "trait_type": "Cap",
+      "value": "cap_07"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "snglasses_07"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "none"
+    }
+  ]
+}
