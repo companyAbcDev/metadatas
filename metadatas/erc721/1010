@@ -1,0 +1,20 @@
+{
+    "name": "PuPu",
+    "description": "The first bridgeable NFT series of ABC.INC which will be with kthulu wallet and chainbridge forever.",
+    "image": "https://ipfs.io/ipfs/QmP3q2Xw7yio524ivBxmoZtFPBbCVdGGc2MNXr112bStn4",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Pretty",
+        "value": "100"
+      },
+      {
+        "trait_type": "CooL",
+        "value": "100"
+      },
+      {
+        "trait_type": "Rap",
+        "value": "Tupac"
+      }
+    ]
+}
