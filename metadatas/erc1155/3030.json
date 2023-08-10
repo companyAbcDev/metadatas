@@ -1,0 +1,20 @@
+{
+    "name": "NFTTOWN",
+    "description": "The first bridgeable NFTTOWN series of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmWpUjEBpUVD2muAtfk9ujoXsTnLDrWXtq9EH2SZowEDgA",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Pretty",
+        "value": "100"
+      },
+      {
+        "trait_type": "CooL",
+        "value": "100"
+      },
+      {
+        "trait_type": "Rap",
+        "value": "Tupac"
+      }
+    ]
+}
