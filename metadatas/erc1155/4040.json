@@ -1,0 +1,20 @@
+{
+    "name": "CuttyMans",
+    "description": "The first bridgeable NFTTOWN series of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmaWnrbcrhh4GKm4dA1zG9ATEeRis3thX5Z4YHr2eQ5RAZ",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Cutty",
+        "value": "1000000000000000%"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Dream",
+        "value": "Come true"
+      }
+    ]
+}
