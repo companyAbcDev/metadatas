@@ -1,0 +1,20 @@
+{
+    "name": "Anděla Katka",
+    "description": "The first bridgeable girl series of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/bafybeigh3xljyt67yr2igpxcmeourfgxurga5s4joxn6exmt2en25de3za/image.jpeg",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Pretty",
+        "value": "100"
+      },
+      {
+        "trait_type": "CooL",
+        "value": "100"
+      },
+      {
+        "trait_type": "Yuum",
+        "value": "85"
+      }
+    ]
+}
