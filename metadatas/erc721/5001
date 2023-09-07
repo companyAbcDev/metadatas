@@ -1,0 +1,20 @@
+{
+    "name": "Smile Dog",
+    "description": "The first bridgeable Ham series of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmZVpJNV49RR8f9ckcHiMVoEVS7GL5AAViMXFYxLzmaXTd",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Cuty",
+        "value": "200"
+      },
+      {
+        "trait_type": "CooL",
+        "value": "100"
+      },
+      {
+        "trait_type": "Smile",
+        "value": "100"
+      }
+    ]
+}
