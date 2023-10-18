@@ -1,0 +1,16 @@
+{
+    "name": "JealousPurple",
+    "description": "Girl is jealous Purple of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmTF2Y7CAmfpNn6Vg8D6oXyQvtxvU7oS7iaTzWdvPPQrBY",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Jealous",
+        "value": "100"
+      },
+      {
+        "trait_type": "Purple",
+        "value": "100"
+      }
+    ]
+}
