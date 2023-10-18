@@ -1,0 +1,16 @@
+{
+    "name": "CuriousYellow",
+    "description": "Girl is curious yellow of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmaewcmXTZoYMoJ4bwhrterz2t1wynFUKjSmCmXqLsNakF",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Curious",
+        "value": "100"
+      },
+      {
+        "trait_type": "Yellow",
+        "value": "100"
+      }
+    ]
+}
