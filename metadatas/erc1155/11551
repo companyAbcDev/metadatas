@@ -1,0 +1,16 @@
+{
+    "name": "MadBlue",
+    "description": "Girl is Being Lazy mad blue of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmRnY1mkwH2eS3PTwbSz9B1vS7dpgmG2wcV8zEhwMdBC89",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Mad",
+        "value": "100"
+      },
+      {
+        "trait_type": "Blue",
+        "value": "100"
+      }
+    ]
+}
