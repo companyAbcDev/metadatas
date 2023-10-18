@@ -1,0 +1,16 @@
+{
+    "name": "PopStar",
+    "description": "The pop star of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmStZnLdyS8pygujy34P8ETRomJGxWERvW7RmzMLfVqtqq",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Cuty",
+        "value": "100"
+      },
+      {
+        "trait_type": "pretty",
+        "value": "100"
+      }
+    ]
+}
