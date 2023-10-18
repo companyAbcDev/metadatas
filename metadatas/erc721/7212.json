@@ -1,0 +1,16 @@
+{
+    "name": "TheStranger",
+    "description": "The stranger of ABC.INC.",
+    "image": "https://ipfs.io/ipfs/QmZRCw1E5JNeYXm4opNpTbkjnXcf5KdgzuHTKCsouj9hCu",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "hansome",
+        "value": "100"
+      },
+      {
+        "trait_type": "cool",
+        "value": "100"
+      }
+    ]
+}
